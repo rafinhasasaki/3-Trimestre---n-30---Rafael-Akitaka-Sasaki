@@ -3,6 +3,8 @@
 p {
   font-family: "Nunito", sans-serif;
   font-size: 30px;
+  text-shadow: 0px 0px 15px #fa0000;
+  color: rgb(238, 238, 238);
 }
 
 body {
